@@ -47,7 +47,12 @@ To replicate:
 
 Expected behaviour: The title should render above the searchbar
 
+#### Current
 ![](./images/bug4-missing-title.png)
+
+#### Expected
+![](./images/bug4-missing-title-expected.png)
+
 
 ### Bug 5
 When I select some cities using the checkboxes, and then try to deselect one, all of my selections are deselected.
