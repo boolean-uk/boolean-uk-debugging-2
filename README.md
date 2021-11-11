@@ -33,9 +33,10 @@ To replicate:
 
 Expected behaviour: The whole page shouldn't disappear when pressing enter
 
-Before
+#### Before
 ![](./images/bug3-searchbar-before.png)
-After
+
+#### After
 ![](./images/bug3-searchbar-after.png)
 
 ### Bug 4
